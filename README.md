@@ -1,0 +1,2 @@
+# R Data Frame Subsetting Bug
+This repository demonstrates a subtle bug related to data frame subsetting in R when using multiple logical conditions. The original code produces incorrect results due to unexpected operator precedence or type coercion. The solution provides a corrected version of the code and explains the issue.
